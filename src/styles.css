@@ -1,0 +1,17 @@
+*{
+  font-family: sans-serif;
+}
+
+body{
+  background-color: lightyellow;
+}
+ /* GRID STYLE */
+h3{
+  margin: 15px;
+}
+.grid{
+  margin: 15px;
+   width: 401px;
+   height: 309px;
+   border: 2px solid black;
+}
